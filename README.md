@@ -130,7 +130,7 @@ A automação foi desenhada no n8n visando a criação de um pipeline simples e 
 [Schedule Trigger] ➔ [Google Drive] ➔ [Extract From File] ➔ [Filter] ➔ [Loop] ➔ [Edit Fields] ➔ [Execute Query no PostgreSQL]
 ```
 
-![Imagem que demonstra a Pipeline de ingestão do N8N.](/n8n.png "Pipeline do N8N.")
+<img width="1850" height="961" alt="Captura de tela de 2026-06-06 20-32-45" src="https://github.com/user-attachments/assets/63c87dd0-3bd3-4e5e-aff3-f1c5dca83b3e" />
 
 ### 3.1. Detalhamento e Justificativa de Cada Nó
 
